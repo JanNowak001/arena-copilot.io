@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "repo": "https://github.com/JanNowak001/arena-copilot.io",
+    "email": "jan.kowalski@example.com"
+  },
+  "record": {
+    "CNAME": "jannowak001.github.io"
+  }
+}
